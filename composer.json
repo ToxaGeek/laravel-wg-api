@@ -1,6 +1,6 @@
 {
     "name": "toxageek/laravel-wg-api",
-    "description": "Wargaming api auth for Laravel",
+    "description": "Wargaming api for Laravel",
     "license": "MIT",
     "version": "1.0.2",
     "authors": [
