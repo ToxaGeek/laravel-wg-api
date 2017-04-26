@@ -1,0 +1,19 @@
+{
+    "name": "toxageek/laravel-wg-api",
+    "description": "Wargaming api auth for Laravel",
+    "license": "MIT",
+    "version": "1.0.2",
+    "authors": [
+        {
+            "name": "ToxaGeek",
+            "email": "toxageek@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ToxaGeek\\LaravelWgApi\\": "src/"
+        }
+    }
+}
